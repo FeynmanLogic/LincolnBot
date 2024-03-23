@@ -1,6 +1,8 @@
 # LincolnBot
 Things required:
-Proper data.
-Inference and analysis ability.
-Decision making sense.
+<ul>
+<li>Proper data.</li>
+<li>Inference and analysis ability.</li>
+<li>Decision making sense.</li>
 
+</ul>
