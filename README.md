@@ -1,2 +1,6 @@
 # LincolnBot
-Aim: To build a bot that talks like Abraham Lincoln.
+Things required:
+Proper data.
+Inference and analysis ability.
+Decision making sense.
+
